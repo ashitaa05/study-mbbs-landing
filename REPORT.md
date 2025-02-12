@@ -1,4 +1,4 @@
-#### Report on the Design and Development of Study MBBS Abroad Landing Page
+# Report on the Design and Development of Study MBBS Abroad Landing Page
 
 ## Introduction
 
@@ -8,7 +8,7 @@ The **Study MBBS Abroad** landing page was developed to provide prospective stud
 
 The design philosophy behind the landing page focused on **simplicity**, **accessibility**, and **responsiveness**. The color scheme was chosen to instill trust and **professionalism**, using shades of **blue**, **white**, and **yellow**. The **UI/UX design** ensures that users can easily navigate the page, understand the information, and take action by filling out the form.
 
-# User Interface (UI) and Experience (UX)
+## User Interface (UI) and Experience (UX)
 
 **1. Header and Hero Section:**
 
@@ -34,7 +34,7 @@ The design philosophy behind the landing page focused on **simplicity**, **acces
 
 - The submit button is **visually distinct** to attract user action.
 
-##Development Process
+## Development Process
 
 The landing page was developed using a **mobile-first approach** to ensure an optimal experience across all devices. The main technologies used include:
 
@@ -46,7 +46,7 @@ The landing page was developed using a **mobile-first approach** to ensure an op
 
 - **Google Analytics & Facebook Pixel**: Integrated for user tracking and performance monitoring.
 
-# Key Development Steps
+## Key Development Steps
 
 **1. Project Setup**:
 
@@ -70,7 +70,7 @@ The landing page was developed using a **mobile-first approach** to ensure an op
 
 - Ensured **fast loading speed** with optimized assets.
 
-# Deployment
+## Deployment
 
 The project was deployed on **Vercel** for fast and reliable hosting. The deployment process involved:
 
