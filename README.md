@@ -20,7 +20,9 @@ This is a **responsive landing page** for "Study MBBS Abroad" built using **HTML
 ## Setup Instructions  
 # Clone the repository:  
 **git clone https://github.com/ashitaa05/**
+
 **study-mbbs-landing.git**
+
 **cd study-mbbs-landing**
 
 ## Run the Project
@@ -28,8 +30,8 @@ This is a **responsive landing page** for "Study MBBS Abroad" built using **HTML
 - **To deploy, upload the files to Vercel.**
 
 ## Deployment
-**Live Demo: [Your Deployed Link Here]**
-**GitHub Repository: [Your GitHub Repo Link Here]**
+**Live Demo: (https://study-mbbs-landing.vercel.app/)**
+**GitHub Repository: (https://github.com/ashitaa05/study-mbbs-landing)**
 
 ## Contact
  For any queries, contact: ashitaasharma@gmail.com
