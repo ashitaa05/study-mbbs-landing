@@ -18,18 +18,18 @@ This is a **responsive landing page** for "Study MBBS Abroad" built using **HTML
 - **Facebook Pixel**  
 
 ## Setup Instructions  
-### Clone the repository:  
-- **```sh**
-- **git clone https://github.com/ashitaa05/**
-- **study-mbbs-landing.git**
-- **cd study-mbbs-landing**
+# Clone the repository:  
+**git clone https://github.com/ashitaa05/**
+**study-mbbs-landing.git**
+**cd study-mbbs-landing**
 
 ## Run the Project
 - **Open the index.html file in a browser.**
 - **To deploy, upload the files to Vercel.**
+
 ## Deployment
-# Live Demo: [Your Deployed Link Here]
-# GitHub Repository: [Your GitHub Repo Link Here]
+**Live Demo: [Your Deployed Link Here]**
+**GitHub Repository: [Your GitHub Repo Link Here]**
 
 ## Contact
-- For any queries, contact: ashitaasharma@example.com
+ For any queries, contact: ashitaasharma@gmail.com
